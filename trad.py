@@ -38,7 +38,7 @@ def json_to_pdf(json_file, pdf_file):
     print(f"PDF file '{pdf_file}' created successfully.")
 
 # Example usage:
-json_file = 'asset_info.json'  # Input JSON file
+json_file = 'resposta.json'  # Input JSON file
 pdf_file = 'output.pdf'  # Output PDF file
 titulo = 'Relatório'
 

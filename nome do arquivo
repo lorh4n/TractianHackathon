@@ -1,25 +1,31 @@
 Relatório Obrigatório:
 
-        Informações Gerais
-        ● Nome: 
-        
-        ● Fabricante:
-        ● Tipo:
-        ● Identificação:
-        ● Localização:
-        
-        Especificações Técnicas
-        ● Potência:
-        ● Tipo:
-        ● Tensão:
-        ● Frequência:
-        ● Rotação:
-        ● Grau de Proteção:
-        ● Eficiência:
-        
-        Estado Atual
-        ● Detalhamento do estado atual:
 
+
+Nome: Nome dado à máquina ou equipamento, geralmente associado à sua função ou ao nome padrão utilizado dentro da empresa.
+
+Fabricante:Nome da empresa que fabricou o equipamento. Este dado é importante para referência futura e para a aquisição de peças de reposição ou suporte técnico.
+
+Tipo: Especifica o tipo ou a categoria da máquina, como "Motor Elétrico Trifásico", "Compressor de Parafuso", "Transformador", etc.
+
+Identificação: Número de série ou código único atribuído à máquina pelo fabricante ou pela empresa. Esse código é essencial para rastrear histórico de manutenção, peças e garantias.
+
+Localização: Local onde a máquina está instalada dentro da planta ou instalação. Pode incluir informações detalhadas de acordo com os elementos visuais da imagem, como cor, material da extrutura etc.
+
+Potência:A potência nominal da máquina, geralmente medida em CV (cavalos-vapor) ou kW (quilowatts). Indica a capacidade máxima de trabalho do equipamento.
+
+Tensão: A tensão nominal em que a máquina opera, essencial para garantir que esteja conectada à rede elétrica correta.
+
+Frequência: A frequência da corrente elétrica que o equipamento utiliza, geralmente medida em Hz (hertz). A frequência pode afetar a velocidade e o desempenho da máquina.
+
+Rotação: Velocidade de rotação do motor, geralmente medida em RPM (rotações por minuto). Indica a velocidade com que o eixo do motor gira.
+
+Grau de Proteção: Classificação que indica o nível de proteção da máquina contra poeira, água e outros elementos ambientais, conforme padrões como o IP (Ingress Protection). Exemplo: IP55 (Protegido contra poeira e jatos de água), IP68 (Totalmente protegido contra poeira e submersão contínua em água).
+
+Eficiência: Percentual que indica a eficiência energética da máquina, ou seja, quanta da energia consumida é convertida em trabalho útil. Exemplo: 90% de eficiência, Classe IE3 (Eficiência energética premium).
+
+Estado Atual
+Detalhamento do estado atual. Avaliação visual e técnica do estado da máquina no momento da inspeção. Deve incluir observações sobre qualquer desgaste, falhas, condições de operação, anomalias, condições físicas e se a máquina está visualmente em funcionamento normal ou requer manutenção.
 
 
 

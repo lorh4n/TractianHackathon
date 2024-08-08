@@ -1,0 +1,70 @@
+/* From Uiverse.io by kamehame-ha */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+*{
+    font-family:"Ubuntu", sans-serif;
+    color: #05071a;
+}
+
+h2{
+    color: #444c94;
+}
+
+
+.coolinput {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    position: static;
+    max-width: 240px;
+}
+  
+.coolinput label.text {
+    font-size: 0.75rem;
+    color: #818CF8;
+    font-weight: 700;
+    position: relative;
+    top: 0.5rem;
+    margin: 0 0 0 7px;
+    padding: 0 3px;
+    background: white;
+    width: fit-content;
+}
+  
+.coolinput input[type=text].input {
+    padding: 11px 10px;
+    font-size: 0.75rem;
+    border: 2px #818CF8 solid;
+    border-radius: 5px;
+    background: white;
+}
+  
+.coolinput input[type=text].input:focus {
+    outline: none;
+}
+
+
+.coolinput input[type="file"].input {
+    padding: 11px 10px;
+    font-size: 0.75rem;
+    border: 2px #818CF8 solid;
+    border-radius: 5px;
+    background: white;
+}
+
+.coolinput input[type="file"].input:focus {
+    outline: none;
+}
+
+
+button {
+    border: none;
+    color: white;
+    padding: 10px 0;
+    background-color: #818CF8;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #444c94;
+}

@@ -1,7 +1,5 @@
 Relatório Obrigatório:
 
-
-
 Nome: Nome dado à máquina ou equipamento, geralmente associado à sua função ou ao nome padrão utilizado dentro da empresa.
 
 Fabricante:Nome da empresa que fabricou o equipamento. Este dado é importante para referência futura e para a aquisição de peças de reposição ou suporte técnico.
@@ -24,10 +22,7 @@ Grau de Proteção: Classificação que indica o nível de proteção da máquin
 
 Eficiência: Percentual que indica a eficiência energética da máquina, ou seja, quanta da energia consumida é convertida em trabalho útil. Exemplo: 90% de eficiência, Classe IE3 (Eficiência energética premium).
 
-Estado Atual
-Detalhamento do estado atual. Avaliação visual e técnica do estado da máquina no momento da inspeção. Deve incluir observações sobre qualquer desgaste, falhas, condições de operação, anomalias, condições físicas e se a máquina está visualmente em funcionamento normal ou requer manutenção.
-
-
+Estado Atual: Detalhamento do estado atual. Avaliação visual e técnica do estado da máquina no momento da inspeção. Deve incluir observações sobre qualquer desgaste, falhas, condições de operação, anomalias, condições físicas e se a máquina está visualmente em funcionamento normal ou requer manutenção.
 
 
 Relatório Adicional:
@@ -65,9 +60,6 @@ Relatório Adicional:
         
         Documentação Anexa:
         ● Manuais ou Diagramas: Se visível, qualquer documentação anexada à máquina (como manuais de operação ou diagramas).
-
-
-
 
 
         Conclusão de Relatório:Informações baseadas nas falhas antecipadas e diagnosticadas pelo sistema atual da Tractian

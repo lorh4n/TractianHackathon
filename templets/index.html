@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/styles.css">
+    <title>Hackaton-Tetris</title>
+    <link rel="icon" href="../static/logo.png">
+    <script src="../static/response.js"></script>
+</head>
+<body>
+    <header><img src="../static/logo.svg" alt="" class="logo"><p class="titulo">Tetris</p></header>
+    <div class="areas">
+        <div class="coolinput caixa">
+            <h2>Busca</h2>
+            <form id="uploadForm" enctype="multipart/form-data">
+                <label for="maquina" class="text">Maquina:</label>
+                <input type="text" placeholder="Digite aqui..." name="nome" class="input">
+    
+                <label for="marca" class="text">Marca:</label>
+                <input type="text" placeholder="Digite aqui..." name="marca" class="input">
+    
+                <label for="modelo" class="text">Modelo:</label>
+                <input type="text" placeholder="Digite aqui..." name="modelo" class="input">
+    
+                <label for="imagem1" class="text">Imagem 1</label>
+                <input id="imagem1" type="file" name="imagem1" class="input"/><br>
+    
+                <label for="imagem2" class="text">Imagem 2</label>
+                <input id="imagem2" type="file" name="imagem2" class="input"/><br>
+    
+                <label for="imagem3" class="text">Imagem 3</label>
+                <input id="imagem3" type="file" name="imagem3" class="input"/><br>
+
+                <button type="submit">Enviar</button>
+            </form>    
+        </div>
+        <!-- Dados Display -->
+
+        <div class="dados">
+            <div style="display: flex; justify-content: center;"> <h2>Dados</h2></div>
+            <div class="dados_texto">
+                
+                <div class="dados_box">
+                    <h3>Informações gerais</h3>
+                    <p id="nome"><b>Nome: </b>tetris</p>
+                    <p id="fabricante"><b>Fabricante: </b>tetris</p>
+                    <p id="tipo"><b>Tipo: </b>coffee</p>
+                    <p id="indetificacao"><b>Identifiação: </b>coffee</p>
+                    <p id="localizacao"><b>Localização: </b>coffee</p>
+                </div>
+
+                <div class="dados_box">
+                    <h3>Especificações Técnicas</h3>
+                    <p id="potencia"><b>Potência: </b>tetris</p>
+                    <p id="tensao"><b>Tensão: </b>coffee</p>
+                    <p id="frequencia"><b>Frequência: </b>tetris</p>
+                    <p id="rotacao"><b>Rotação: </b>tetris</p>
+                    <p id="protecao"><b>Grau de proteção: </b>coffee</p>
+                    <p id="eficiencia"><b>Eficiência: </b>coffee</p>
+                </div>
+
+                <div class="dados_box">
+                    <h3>Estado atual</h3>
+                    <p id="estado"><b>Relatório: </b>tetris</p>
+                </div>
+                
+                <button onclick="">Baixar relatório completo</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
